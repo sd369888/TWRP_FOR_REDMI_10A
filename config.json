@@ -4,13 +4,13 @@
   "git_username": "Pinkdoge",
   "git_email": "42758990+Pinkdoge@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "pinkdoge/twrp_device_huawei_kiwi",
-  "dt_branch": "android-9.0",
+  "dt_url": "Redmi-9A-9T-9i-dandelion/omni_device_xiaomi_dandelion",
+  "dt_branch": "android-10.0-R",
   "dt_remote": "github",
-  "dt_path": "device/huawei/kiwi",
-  "device_code": "kiwi",
+  "dt_path": "device/xiaomi/dadelion",
+  "device_code": "dadelion",
   "fix_product": true,
   "fix_misscom": true,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-11.0"
 }
